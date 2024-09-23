@@ -45,12 +45,16 @@ To deploy this app on [Shinyapps.io](https://www.shinyapps.io/):
    ```
 
 ## Screenshots
-
+![image](https://github.com/user-attachments/assets/c7ad8c85-5971-45c2-b902-04fef653e44a)
 ![image](https://github.com/user-attachments/assets/8af81659-e95f-4f38-84d9-41b59910aa95)
 ![image](https://github.com/user-attachments/assets/4fd433f6-81af-45b7-9cf0-b19211ac56c9)
 ![image](https://github.com/user-attachments/assets/c60bfea0-f5fe-46f8-a1a2-374e89539d84)
 ![image](https://github.com/user-attachments/assets/0fb7ac80-bda3-4996-a00a-dc4fef182330)
 ![image](https://github.com/user-attachments/assets/0df89190-100b-4d03-918d-457ccd64706e)
+![image](https://github.com/user-attachments/assets/29935dcb-c357-480c-a3dd-0c773f126982)
+![image](https://github.com/user-attachments/assets/536bbd4e-f6a6-40c5-8a6b-d786b6da53a9)
+![image](https://github.com/user-attachments/assets/2cf8cf2a-eb60-48a5-bf4b-86b29c5a7837)
+![image](https://github.com/user-attachments/assets/3df52de6-2575-4736-ac29-31b19c39f059)
 
 
 
